@@ -1,0 +1,2 @@
+Program inversare sir citit de la tastatura. Inversarea se face prin punerea caracterelor sirului in stiva (caracter cu caracter incepand cu primul caracter al sirului)
+ si apoi afisarea in ordine inversa prin extragerea caracterelor din stiva.
